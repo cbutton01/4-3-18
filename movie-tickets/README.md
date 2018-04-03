@@ -12,7 +12,7 @@ A website created with C# and HTML where a user can submit a word and determine 
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| User selects the movie they want nd the program will return that movie - | Red Dawn | Red Dawn |
+| User selects the movie they want and the program will return that movie - | Red Dawn | Red Dawn |
 user will select time of day they'd like t see the movie and program will display time category. | 3:00pm |3:00pm matinee showing |
 the user will input their age and the program will display age category | 15 | adult admission |
 program will take above information and display ticket with total cost on it. | Red Dawn, 3p,m, age 15, first showing| output $15 for Red Dawn at 3pm Matinee |
